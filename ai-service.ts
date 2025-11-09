@@ -1,7 +1,7 @@
 // AI Service for processing URLs and generating study content
 
 // Your Google API key
-const GOOGLE_API_KEY = 'AIzaSyCGjsN8nQkV2zNh8xPjjwtanEwT0EhVRSM';
+const GOOGLE_API_KEY = "Insert your API Key here";
 
 // Using Gemini Pro model (stable)
 const GEMINI_MODEL = 'gemini-2.5-flash'; // instead of gemini-pro
